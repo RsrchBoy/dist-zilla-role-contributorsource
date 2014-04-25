@@ -4,7 +4,6 @@ package Dist::Zilla::Role::ContributorSource;
 
 use Moose::Role;
 use namespace::autoclean;
-use MooseX::AttributeShortcuts;
 
 =required_method contributors
 
