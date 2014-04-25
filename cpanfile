@@ -1,5 +1,4 @@
 requires "Moose::Role" => "0";
-requires "MooseX::AttributeShortcuts" => "0";
 requires "namespace::autoclean" => "0";
 requires "perl" => "5.006";
 
