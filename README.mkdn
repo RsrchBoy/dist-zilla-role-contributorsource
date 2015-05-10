@@ -1,10 +1,14 @@
+[![Build Status](https://travis-ci.org/RsrchBoy/dist-zilla-role-contributorsource.svg?branch=master)](https://travis-ci.org/RsrchBoy/dist-zilla-role-contributorsource)
+[![Kwalitee status](http://cpants.cpanauthors.org/dist/Dist-Zilla-Role-ContributorSource.png)](http://cpants.charsbar.org/dist/overview/Dist-Zilla-Role-ContributorSource)
+[![Coverage Status](https://coveralls.io/repos/RsrchBoy/dist-zilla-role-contributorsource/badge.png?branch=master)](https://coveralls.io/r/RsrchBoy/dist-zilla-role-contributorsource?branch=master)
+
 # NAME
 
 Dist::Zilla::Role::ContributorSource - Something that finds and provides contributors.
 
 # VERSION
 
-This document describes version 0.001 of Dist::Zilla::Role::ContributorSource - released April 25, 2014 as part of Dist-Zilla-Role-ContributorSource.
+This document describes version 0.002 of Dist::Zilla::Role::ContributorSource - released May 10, 2015 as part of Dist-Zilla-Role-ContributorSource.
 
 # SYNOPSIS
 
@@ -32,11 +36,6 @@ Please see those modules/websites for more information related to this module.
 
 - [Dist::Zilla::Stash::Contributors](https://metacpan.org/pod/Dist::Zilla::Stash::Contributors)
 
-# SOURCE
-
-The development version is on github at [http://https://github.com/RsrchBoy/dist-zilla-role-contributorsource](http://https://github.com/RsrchBoy/dist-zilla-role-contributorsource)
-and may be cloned from [git://https://github.com/RsrchBoy/dist-zilla-role-contributorsource.git](git://https://github.com/RsrchBoy/dist-zilla-role-contributorsource.git)
-
 # BUGS
 
 Please report any bugs or feature requests on the bugtracker website
@@ -49,6 +48,23 @@ feature.
 # AUTHOR
 
 Chris Weyl <cweyl@alumni.drew.edu>
+
+## I'm a material boy in a material world
+
+<div>
+    <a href="https://gratipay.com/RsrchBoy/"><img src="http://img.shields.io/gratipay/RsrchBoy.svg" /></a>
+    <a href="http://bit.ly/rsrchboys-wishlist"><img src="http://wps.io/wp-content/uploads/2014/05/amazon_wishlist.resized.png" /></a>
+    <a href="https://flattr.com/submit/auto?user_id=RsrchBoy&url=https%3A%2F%2Fgithub.com%2FRsrchBoy%2Fdist-zilla-role-contributorsource&title=RsrchBoy's%20CPAN%20Dist-Zilla-Role-ContributorSource&tags=%22RsrchBoy's%20Dist-Zilla-Role-ContributorSource%20in%20the%20CPAN%22"><img src="http://api.flattr.com/button/flattr-badge-large.png" /></a>
+</div>
+
+Please note **I do not expect to be gittip'ed or flattr'ed for this work**,
+rather **it is simply a very pleasant surprise**. I largely create and release
+works like this because I need them or I find it enjoyable; however, don't let
+that stop you if you feel like it ;)
+
+[Flattr](https://flattr.com/submit/auto?user_id=RsrchBoy&url=https%3A%2F%2Fgithub.com%2FRsrchBoy%2Fdist-zilla-role-contributorsource&title=RsrchBoy&#x27;s%20CPAN%20Dist-Zilla-Role-ContributorSource&tags=%22RsrchBoy&#x27;s%20Dist-Zilla-Role-ContributorSource%20in%20the%20CPAN%22),
+[Gratipay](https://gratipay.com/RsrchBoy/), or indulge my
+[Amazon Wishlist](http://bit.ly/rsrchboys-wishlist)...  If and \*only\* if you so desire.
 
 # COPYRIGHT AND LICENSE
 
